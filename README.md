@@ -1,2 +1,2 @@
-# Location-Sharing
-G-Map Location Sharing App Project
+# Retrofit-API-APP
+This is Retrofit API App Project
